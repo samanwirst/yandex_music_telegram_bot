@@ -1,0 +1,2 @@
+yandex_music
+aiogram==2.25
