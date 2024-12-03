@@ -1,0 +1,1 @@
+Телеграм Бот работающий с неофициальным API Яндекс.Музыки (см. на PyPI - https://pypi.org/project/yandex-music/)
